@@ -80,6 +80,7 @@ Berikut adalah struktur folder proyek beserta fungsinya:
 Proyek ini dirilis di bawah lisensi MIT. Silakan gunakan dan modifikasi sesuai kebutuhan.
 
 ---
+Untuk Live Demonya : https://tokomainan.infy.uk/?i=1
 
 Selamat berbelanja di Kidu Toys! 😊
 
