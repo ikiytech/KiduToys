@@ -1,0 +1,232 @@
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+
+.card:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px);
+}
+
+.btn-cart {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-cart:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+body {
+    cursor: url('https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.svg#cursor'), auto;
+}
+
+/* Responsif untuk ukuran layar kecil */
+@media (max-width: 767px) {
+    .card-img-top {
+        height: 150px;
+    }
+
+    .banner {
+        padding: 50px 10px;
+    }
+
+    .banner h1 {
+        font-size: 1.5rem;
+    }
+
+    .banner p {
+        font-size: 1rem;
+    }
+}
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+
+.card:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px);
+}
+
+.btn-cart {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-cart:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+body {
+    cursor: url('https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.svg#cursor'), auto;
+}
+
+/* Responsif untuk ukuran layar kecil */
+@media (max-width: 767px) {
+    .card-img-top {
+        height: 150px;
+    }
+
+    .banner {
+        padding: 50px 10px;
+    }
+
+    .banner h1 {
+        font-size: 1.5rem;
+    }
+
+    .banner p {
+        font-size: 1rem;
+    }
+}
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+
+.card:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px);
+}
+
+.btn-cart {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-cart:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+body {
+    cursor: url('https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.svg#cursor'), auto;
+}
+
+/* Responsif untuk ukuran layar kecil */
+@media (max-width: 767px) {
+    .card-img-top {
+        height: 150px;
+    }
+
+    .banner {
+        padding: 50px 10px;
+    }
+
+    .banner h1 {
+        font-size: 1.5rem;
+    }
+
+    .banner p {
+        font-size: 1rem;
+    }
+}
+.card-img-top {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+.card:hover .card-img-top {
+    transform: scale(1.05);
+}
+
+.card:hover {
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-10px);
+}
+
+.btn-cart {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-cart:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+body {
+    cursor: url('https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.svg#cursor'), auto;
+}
+
+/* Responsif untuk ukuran layar kecil */
+@media (max-width: 767px) {
+    .card-img-top {
+        height: 150px;
+    }
+
+    .banner {
+        padding: 50px 10px;
+    }
+
+    .banner h1 {
+        font-size: 1.5rem;
+    }
+
+    .banner p {
+        font-size: 1rem;
+    }
+}
