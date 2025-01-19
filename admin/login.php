@@ -7,11 +7,10 @@ if (isset($_SESSION['admin_id'])) {
     exit;
 }
 
-$host = 'sql203.infinityfree.com';
-$user = 'if0_37983334';
-$pass = '1WnBEape3lD9h';
-$dbname = 'if0_37983334_db_toko_mainan';
-
+$host = 'sql203.infinityfree.com';  // Host database
+$user = '';            // MySQL Username
+$pass = '';           // MySQL Password
+$dbname = '';      // MySQL Database Name
 // Koneksi ke database
 $conn = new mysqli($host, $user, $pass, $dbname);
 
