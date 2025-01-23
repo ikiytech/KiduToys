@@ -1,4 +1,5 @@
 # Kidu Toys Website
+![image](https://github.com/user-attachments/assets/219c52c0-8898-4d3d-9dd3-5cc42bcfd537)
 
 Kidu Toys adalah sebuah situs web e-commerce yang menjual mainan edukasi anak. Website ini dibuat dengan menggunakan PHP, MySQL, dan Bootstrap untuk memberikan pengalaman belanja yang mudah dan menarik bagi pengguna.
 
